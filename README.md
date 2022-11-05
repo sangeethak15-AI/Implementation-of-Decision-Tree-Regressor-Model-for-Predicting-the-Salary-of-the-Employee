@@ -8,10 +8,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the required packages.
+2. Read the data set.
+3. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
+4.Determine training and test data set.
+5.Apply decision tree regression on to the dataframe and get the values of Mean square error, r2 and data prediction 
 
 ## Program:
 ```
@@ -49,9 +50,10 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+
 ![ml71](https://user-images.githubusercontent.com/93992063/200124715-135f54e6-330e-4497-963d-96600cd67f75.png)
 
+![4](https://user-images.githubusercontent.com/93992063/200128882-eb24c6fb-4839-4dfb-854c-56583a1062a8.png)
 
 ![ml77](https://user-images.githubusercontent.com/93992063/200124819-07ec341f-3ca9-45e7-9efe-2558c17e5a3e.png)
 
