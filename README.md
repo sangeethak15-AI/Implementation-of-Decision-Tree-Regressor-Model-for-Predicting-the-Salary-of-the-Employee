@@ -11,8 +11,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 1. Import the required packages.
 2. Read the data set.
 3. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
-4.Determine training and test data set.
-5.Apply decision tree regression on to the dataframe and get the values of Mean square error, r2 and data prediction 
+4. Determine training and test data set.
+5. Apply decision tree regression on to the dataframe and get the values of Mean square error, r2 and data prediction 
 
 ## Program:
 ```
@@ -54,6 +54,7 @@ dt.predict([[5,6]])
 ![ml71](https://user-images.githubusercontent.com/93992063/200124715-135f54e6-330e-4497-963d-96600cd67f75.png)
 
 ![4](https://user-images.githubusercontent.com/93992063/200128882-eb24c6fb-4839-4dfb-854c-56583a1062a8.png)
+![5](https://user-images.githubusercontent.com/93992063/200128928-80c98713-df73-4e92-9e9f-a69a2f3e4935.png)
 
 ![ml77](https://user-images.githubusercontent.com/93992063/200124819-07ec341f-3ca9-45e7-9efe-2558c17e5a3e.png)
 
