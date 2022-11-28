@@ -50,8 +50,12 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+![ml72](https://user-images.githubusercontent.com/93992063/204302225-858560b1-6ca1-4031-9b9f-75cc70722870.png)
+
 
 ![ml71](https://user-images.githubusercontent.com/93992063/200124715-135f54e6-330e-4497-963d-96600cd67f75.png)
+
+![ml73](https://user-images.githubusercontent.com/93992063/204302316-004ffb9e-1a07-40c8-bddc-eb9d0168b7a1.png)
 
 ![4](https://user-images.githubusercontent.com/93992063/200128882-eb24c6fb-4839-4dfb-854c-56583a1062a8.png)
 ![5](https://user-images.githubusercontent.com/93992063/200128928-80c98713-df73-4e92-9e9f-a69a2f3e4935.png)
